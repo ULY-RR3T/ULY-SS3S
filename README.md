@@ -6,7 +6,7 @@
 ## I'm a Student, Developer, and Startup-Founder!!
 
 - 🔭 My persoal site under construction: [Get to know Terry Lu better!][website]!
-- 🌱 I’m currently learning SpringBoot & [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
+- 🌱 I’m currently learning SpringBoot & <img alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 - 👯 I'm looking forward to be a entrepreneurial developer
 - 🥅 2020 Goals: Learn Adobe Illustration and develop Medibox faster!
 - ⚡ Fun fact: I ranked top #200 in [OSUMania][osu] back in 2015!
