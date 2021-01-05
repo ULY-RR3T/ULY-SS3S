@@ -18,7 +18,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
+ 
 ### Languages and Tools:
 
 
@@ -38,6 +38,10 @@
 <br />
 <br />
 
+---
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
