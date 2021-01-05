@@ -40,8 +40,7 @@
 
 ---
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -59,7 +58,12 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true&theme=gruvbox" />
+
+![Terry's github stats](https://github-readme-stats.vercel.app/api?username=ULY-SS3S&show_icons=true&theme=radical)
+
+[![Terry's coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </details>
 
