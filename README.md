@@ -62,7 +62,7 @@
 
 ![Terry's github stats](https://github-readme-stats.vercel.app/api?username=ULY-SS3S&show_icons=true&theme=radical)
 
-[![Terry's coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Terry's coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=ULY-SS3S)](https://github.com/ULY-SS3S/ULY-SS3S)
 
 
 </details>
