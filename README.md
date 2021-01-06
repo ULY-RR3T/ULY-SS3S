@@ -43,7 +43,9 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!-- If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
