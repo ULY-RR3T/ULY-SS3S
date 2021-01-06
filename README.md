@@ -1,17 +1,17 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <img src="https://visitor-badge.glitch.me/badge?page_id=ULY-SS3S.ULY-SS3S"></img>
-  <img align="left" alt="Terry's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  <img align="left" alt="Terry's Website" width="22px" src="https://raw.githubusercontent.com/ULY-SS3S/ULY-SS3S/master/blob/web.png" />
 <a href="https://discord.com/users/622231703926079489">
   <img align="left" alt="Terry's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://space.bilibili.com/88547288/">
-  <img align="left" alt="Terry's Bilibili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bilibili.svg" />
+  <img align="left" alt="Terry's Bilibili" width="22px" src="https://raw.githubusercontent.com/ULY-SS3S/ULY-SS3S/master/blob/bilibili.png" />
 </a>
 <a href="https://open.spotify.com/user/31bsaexw6yewoe5qajgvujif7rye">
   <img align="left" alt="Terry's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <a href="https://open.spotify.com/user/31bsaexw6yewoe5qajgvujif7rye">
-  <img align="left" alt="Terry's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Terry's Instagram" width="22px" src="https://raw.githubusercontent.com/ULY-SS3S/ULY-SS3S/master/blob/instagram.png" />
 </a>
 
 ### I'm [Terry Lu](https://terrylu.com/)!, a Student, Developer, and Start-up Founder 🚀 Currently Attending USC.
