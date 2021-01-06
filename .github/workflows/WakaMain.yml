@@ -5,6 +5,11 @@ on:
   schedule:
     # Runs every 2 hours
     - cron: "0 */2 * * *"
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - 'README.md'  
 
 jobs:
   update-readme:
@@ -17,9 +22,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_LINES_OF_CODE: "True"
 
-on:
-  push:
-    branches:
-      - master
-    paths-ignore:
-      - 'README.md'
+
