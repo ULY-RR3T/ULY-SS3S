@@ -1,4 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### I'm [Terry Lu](https://terrylu.com/)!, a Student, Developer, and Start-up Founder 🚀 Currently Attending USC.
+<br />
 <a href="https://terrylu.com">
   <img align="left" alt="Terry's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
@@ -18,8 +20,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ULY-SS3S.ULY-SS3S)
 
 
-### Hi, I'm [Terry Lu!](https://terrylu.com/), a Student, Developer, and Start-up Founder 🚀 Currently Attending USC.
-<br />
+
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ULY-SS3S/ULY-SS3S/master/blob/code2.gif?raw=true" width="400" height="256" />
   
