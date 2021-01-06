@@ -19,7 +19,7 @@
 
 <br />
 
-Hi, I'm [Terry Lu!](https://terrylu.com/), a Student, Developer, and Start-up Founder 🚀 Currently Attending USC.
+#### Hi, I'm [Terry Lu!](https://terrylu.com/), a Student, Developer, and Start-up Founder 🚀 Currently Attending USC.
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ULY-SS3S/ULY-SS3S/master/blob/code2.gif?raw=true" width="400" height="256" />
   
@@ -58,4 +58,9 @@ Hi, I'm [Terry Lu!](https://terrylu.com/), a Student, Developer, and Start-up Fo
 
 <p align="center">   <img align="left" alt="ULY-SS3S's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ULY-SS3S&show_icons=true&theme=gruvbox" />
 
+### Spotify Playing 🎧
+
+[<img src="https://uly-ss3s.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31bsaexw6yewoe5qajgvujif7rye)
+
 [website]: https://terrylu.com
+
