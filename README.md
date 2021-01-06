@@ -1,7 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://visitor-badge.glitch.me/badge?page_id=ULY-SS3S.ULY-SS3S)
-### I'm [Terry Lu](https://terrylu.com/)!, a Student, Developer, and Start-up Founder 🚀 Currently Attending USC.
-<br />
+
 <a href="https://terrylu.com">
   <img align="left" alt="Terry's Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
@@ -17,6 +16,10 @@
 <a href="https://open.spotify.com/user/31bsaexw6yewoe5qajgvujif7rye">
   <img align="left" alt="Terry's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+<br />
+
+### I'm [Terry Lu](https://terrylu.com/)!, a Student, Developer, and Start-up Founder 🚀 Currently Attending USC.
 
 <br />
 
