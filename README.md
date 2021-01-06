@@ -21,11 +21,11 @@
 
 Hi, I'm [Terry Lu!](https://terrylu.com/), a Student, Developer, and Start-up Founder 🚀 Attending USC.
 
-  <img align="right" alt="GIF" src="https://github.com/ULY-SS3S/ULY-SS3S/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ULY-SS3S/ULY-SS3S/master/blob/code2.gif?raw=true" width="400" height="256" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [My Personal Site][https://terrylu.com] :wink:;
+- 👨🏽‍💻 I’m currently working on [My Personal Site](https://terrylu.com) :wink:;
 - 🌱 I’m currently learning SpringBoot & React; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Email](mailto:terrylu@outlook.com);
@@ -71,5 +71,4 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uly-ss3s_icons=true&theme=gotham" alt="uly-ss3s" />
 
-
-
+[website]: https://terrylu.com
