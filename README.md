@@ -14,8 +14,6 @@
   <img align="left" alt="Terry's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<br />
-
 ### I'm [Terry Lu](https://terrylu.com/)!, a Student, Developer, and Start-up Founder 🚀 Currently Attending USC.
 
 
