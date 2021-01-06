@@ -33,13 +33,6 @@ Hi, I'm [Terry Lu!](https://terrylu.com/), a Student, Developer, and Start-up Fo
 
 **Languages and Tools:**  
 
-
-[<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/spring-boot/spring-boot.png" />][website]
-[<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/tensorflow/tensorflow.png" />][website]
-[<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cpp/cpp.png" />][website]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />][website]
-[<img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/matlab/matlab.png" />][website]
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -53,29 +46,17 @@ Hi, I'm [Terry Lu!](https://terrylu.com/), a Student, Developer, and Start-up Fo
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-C++          4 hrs           █████████████████▒░░░░░░░   69.41 % 
-JavaScript   59 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Markdown     44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-```
+
 <!--END_SECTION:waka-->
 
 <!-- If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  6,694 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 507 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=uly-ss3s_icons=true&theme=gotham" alt="uly-ss3s" />
+<p align="center">   <img align="left" alt="ULY-SS3S's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ULY-SS3S&show_icons=true&theme=gruvbox" />
 
 [website]: https://terrylu.com
