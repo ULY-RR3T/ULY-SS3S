@@ -46,9 +46,6 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 <!-- If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
@@ -61,9 +58,9 @@ No Activity tracked this Week
 
 <p align="center">   <img align="left" alt="ULY-SS3S's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ULY-SS3S&show_icons=true&theme=gruvbox" />
 
+<br></br>
+
 ### Spotify Playing 🎧
 
-[<img src="https://uly-ss3s.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31bsaexw6yewoe5qajgvujif7rye)
-
-[website]: https://terrylu.com
+[![Spotify](https://novatorem.uly-ss3s.vercel.app/api/spotify)](https://open.spotify.com/user/31bsaexw6yewoe5qajgvujif7rye)
 
