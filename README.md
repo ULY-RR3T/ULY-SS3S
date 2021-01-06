@@ -17,9 +17,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ULY-SS3S.ULY-SS3S)
 
-<br />
 
-#### Hi, I'm [Terry Lu!](https://terrylu.com/), a Student, Developer, and Start-up Founder 🚀 Currently Attending USC.
+### Hi, I'm [Terry Lu!](https://terrylu.com/), a Student, Developer, and Start-up Founder 🚀 Currently Attending USC.
+<br />
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ULY-SS3S/ULY-SS3S/master/blob/code2.gif?raw=true" width="400" height="256" />
   
@@ -48,9 +48,7 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+
 <!--END_SECTION:waka-->
 
 <!-- If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
