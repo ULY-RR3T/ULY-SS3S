@@ -56,9 +56,9 @@
 
 📈 My GitHub Stats:
 
-<p align="center">   <img align="left" alt="ULY-SS3S's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ULY-SS3S&show_icons=true&theme=gruvbox" />
+<p align="center">   <p><img align="left" alt="ULY-SS3S's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ULY-SS3S&show_icons=true&theme=gruvbox" /></p>
 
-<br></br>
+<br />
 
 ### Spotify Playing 🎧
 
