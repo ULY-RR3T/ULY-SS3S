@@ -56,14 +56,14 @@
 
 <br />
 
-
-📈 My GitHub Stats:
-
-<p align="center">   <p><img align="left" alt="ULY-SS3S's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ULY-SS3S&show_icons=true&theme=gruvbox" /></p>
-
 <br />
 
-### Spotify Playing 🎧
+🎧 ***Spotify Playing***
 
 [![Spotify](https://novatorem.uly-ss3s.vercel.app/api/spotify)](https://open.spotify.com/user/31bsaexw6yewoe5qajgvujif7rye)
 
+<br>
+
+📈 ***My GitHub Stats:***
+
+<p align="left"> <img alt="ULY-SS3S's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ULY-SS3S&show_icons=true&theme=gruvbox" /></p>
