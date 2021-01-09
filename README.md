@@ -1,6 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <img src="https://visitor-badge.glitch.me/badge?page_id=ULY-SS3S.ULY-SS3S"></img>
+<a href="https://terrylu.com">
   <img align="left" alt="Terry's Website" width="22px" src="https://raw.githubusercontent.com/ULY-SS3S/ULY-SS3S/master/blob/web.png" />
+</a>
 <a href="https://discord.com/users/622231703926079489">
   <img align="left" alt="Terry's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
