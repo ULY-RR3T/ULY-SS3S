@@ -43,19 +43,8 @@
 
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Other        4 hrs 1 min     ████████████████▓░░░░░░░░   67.23 % 
-HTML         51 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Markdown     26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-TypeScript   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-```
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@715626bf-1868-4e06-830b-72600967d52d/f9e85f6e-af14-4dc5-99b0-6e525247147a.svg"></embed></figure>
 
-<!-- If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 🎧 ***Spotify Playing***
 
