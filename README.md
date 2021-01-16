@@ -43,7 +43,7 @@
 
 
 📊 **This Week I Spent My Time On:**
-<figure><img src="https://wakatime.com/share/@715626bf-1868-4e06-830b-72600967d52d/f9e85f6e-af14-4dc5-99b0-6e525247147a.svg"></img></figure>
+<figure><img src="https://wakatime.com/share/@715626bf-1868-4e06-830b-72600967d52d/f9e85f6e-af14-4dc5-99b0-6e525247147a.svg" style="width:50%"></img></figure>
 
 
 🎧 ***Spotify Playing***
