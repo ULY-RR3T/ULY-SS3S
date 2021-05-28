@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 <img src="https://visitor-badge.glitch.me/badge?page_id=ULY-SS3S.ULY-SS3S"></img>
-<a href="https://terrylu.com">
+<a href="https://terrylu.tech">
   <img align="left" alt="Terry's Website" width="22px" src="https://raw.githubusercontent.com/ULY-SS3S/ULY-SS3S/master/blob/web.png" />
 </a>
 <a href="https://discord.com/users/622231703926079489">
@@ -16,14 +16,14 @@
   <img align="left" alt="Terry's Instagram" width="22px" src="https://raw.githubusercontent.com/ULY-SS3S/ULY-SS3S/master/blob/instagram.png" />
 </a>
 
-### I'm [Terry Lu](https://terrylu.com/)!, a Student, Developer, and Start-up Founder 🚀 Currently Attending USC.
+### I'm [Terry Lu](https://terrylu.com/), a Student Attending USC.
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ULY-SS3S/ULY-SS3S/master/blob/code2.gif?raw=true" width="400" height="256" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [My Personal Site](https://terrylu.com) :wink:;
-- 🌱 I’m currently learning SpringBoot & React; 
+- 👨🏽‍💻 I’m currently working on [My Personal Blog](https://terrylu.tech) :wink:;
+- 🌱 I’m currently learning "The Elements of Statistical Learning"; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Email](mailto:terrylu@outlook.com);
 <!-- - 📝[Resume]() -->
